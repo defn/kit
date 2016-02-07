@@ -1,5 +1,5 @@
-Toot
-====
+Kit
+===
 
 Implement Otto using mostly bash, json, and lots of Hashicorp tools.
 Instead of Appfile, use Blockfile.json.  
