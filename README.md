@@ -1,9 +1,10 @@
 Toot
 ====
 
-Implement Otto using mostly bash and json.
+Implement Otto using mostly bash and json.  The `toot` name is
+temporary, I've no idea what to call it.
 
-Instead of Appfile, use Appfile.json.  
+Instead of Appfile, use Blockfile.json
 
 Setup
 =====
